@@ -773,9 +773,9 @@ Persona 5
             <!-- Creator -->
             <div class="nav-item">
                 <div class="nav-icon">
-                    <img src="img\fontbolt (3).png" alt="Creator">
+                    <img src="C:\Users\user\Desktop\site\img\Untitled.png" alt="Creator">
                 </div>
-                <img src="img\fontbolt (3).png" alt="Creator Label" class="nav-label-img">
+                <img src="C:\Users\user\Desktop\site\img\pngaaa.com-1808863.png" alt="Creator Label" class="nav-label-img">
             </div>
             
             <!-- Story -->
