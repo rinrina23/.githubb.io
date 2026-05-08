@@ -338,7 +338,7 @@ Persona 5
         .main-container {
             width: 100%;
             min-width: 1400px;
-            height: 4222px;
+            height: 4223px;
             position: relative;
             overflow: hidden;
         }
@@ -773,9 +773,9 @@ Persona 5
             <!-- Creator -->
             <div class="nav-item">
                 <div class="nav-icon">
-                    <img src="C:\Users\user\Desktop\site\img\Untitled.png" alt="Creator">
+                    <img src="c:\Users\user\Downloads\pngaaa.com-1859420.png" alt="Creator">
                 </div>
-                <img src="C:\Users\user\Desktop\site\img\pngaaa.com-1808863.png" alt="Creator Label" class="nav-label-img">
+                <img src="C:\Users\user\Downloads\fontbolt (3).png" alt="Creator Label" class="nav-label-img">
             </div>
             
             <!-- Story -->
@@ -789,9 +789,9 @@ Persona 5
             <!-- Gameplay -->
             <div class="nav-item">
                 <div class="nav-icon">
-                    <img src="C:\Users\user\Downloads\pngaaa.com-4266564.png" alt="Gameplay">
+                    <img src="img\pngaaa.com-4266564.png" alt="Gameplay">
                 </div>
-                <img src="C:\Users\user\Downloads\fontbolt (7).png" alt="Gameplay Label" class="nav-label-img">
+                <img src="img\pngaaa.com-4266564.png" alt="Gameplay Label" class="nav-label-img">
             </div>
 
             <!-- Music -->
@@ -891,6 +891,7 @@ Persona 5
     </script>
 </body>
 </html>
+
 
 
 
